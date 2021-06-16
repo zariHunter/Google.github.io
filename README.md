@@ -1,15 +1,8 @@
-# google.github.io
 <link rel="stylesheet" href="googleSearch.css">
 still working on this
 -   [Advanced search](googleAdvancedSearch.html)
 -   [Images](googleImages.html)
-
-![google](../img/google.png)
-
+![google](google.png)
 Google Search
-
- 
-
 I'm Feeling Lucky
-
 ![search-icon](../img/search.png)
